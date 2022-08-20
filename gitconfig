@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jorischou1993@gmail.com
+	name = joris chou
